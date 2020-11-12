@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hi,
+Anirudh here,I am trying to learn github and i am using this 
+platform to accomplish it.
